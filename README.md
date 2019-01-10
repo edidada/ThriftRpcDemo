@@ -28,4 +28,4 @@ excute Client.main
 ### Reference
 https://blog.csdn.net/u010900754/article/details/80172671
 
-
+还额外解释了绑定不同Socket的方法 https://blog.csdn.net/houjixin/article/details/42778335
