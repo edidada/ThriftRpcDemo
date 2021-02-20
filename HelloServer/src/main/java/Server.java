@@ -1,8 +1,3 @@
-/**
- * @Author Junnor.G
- * @Date 2019/1/8 下午6:44
- */
-
 import com.ganjun.service.HelloService;
 import org.apache.thrift.TProcessor;
 import org.apache.thrift.protocol.TBinaryProtocol;
@@ -10,6 +5,11 @@ import org.apache.thrift.server.TServer;
 import org.apache.thrift.server.TSimpleServer;
 import org.apache.thrift.transport.TServerSocket;
 import org.apache.thrift.transport.TTransportException;
+
+/**
+ * @Author Junnor.G
+ * @Date 2019/1/8 下午6:44
+ */
 
 public class Server {
     public static void main(String args[]) {
